@@ -1,0 +1,927 @@
+2024-12-08 14:49:57 CST|1h 9min 34s
+
+Keywords:
+other people、cash revenue、different people、more people、good people、other things、times more、business people、right time、right part、revenue number、real time、group revenues、revenue opportunity、times free time、key people、revenue last year、external revenues
+
+Transcript:
+John 00:00 
+Okay, no, okay, cool.
+
+Fred 00:04 
+Got it. Okay, so PresentI'm gonna share my screen.
+
+Fred 00:15 
+Yeah, I'm just, I'm gonna show you two slides. It's really just to help you navigate what the products are that we do, right? So there's really three parts to Presentcm that are important to remember when we talk about products. And then three different areas. One is what we call PresentTreasury, and that is all about enabling new issues to come to markets, right? People that haven't been there before. We're bringing down entry costs, and that's where we effectively act as a Treasury or Treasury as a service. That is not a software solution, that is an infrastructure solution. We're the issuer and we have an issue's vehicle in Luxembourg through which we issue bonds for people. And that's a very important revenue stream for us going forward because it's probably gonna be the most profitable part of Presentcm in the future.
+
+Fred 01:06 
+The second part is Presentmarkets. That is a regulated marketplace for the issuance of commercial paper. At the moment, we will expand that to bonds, and we have the license to do so as well.
+
+Fred 01:23 
+This is the old PresentCP that we bought a while ago. It's in France, and it's also regulated, and it's regulated by the ACPR and AMF in France. The expansion of that into bonds is a very important but also very complicated step, and I'll explain to you why. Commercial paper is a very short, simple document. Often even in France under the so called new CP framework, you don't even need docs, you just need the economics to be describe arrived in some electronic format and then you're done. You don't even need a blockchain or anything like that for that. And at the moment, that's what we've been using that marketplace for.
+
+Fred 02:10 
+If you want to expand this to bonds, you need to comply with all the regulatory requirements of the issuance of the bond, and that involves a lot of documentation. And that gets us into what you mentioned, a man a moment to go about it, the documentation part, which is this Presentdocs to the right. It's all about processes, getting the workflows, the negotiations of documents into a cloud based environment, which is Mifid 2 compliance, GDPR compliance, and all the rest that enable the interaction of the da, the creation of machine readable data out of the bond. At the moment, the data of a bond is in about 20 different documents, and we're putting them all into one little adjacent file so they can do a lot of different cool things for that, not just create bonds, but you can use it for regulatory reporting, for risk management, for algorithmic trading. And we got plans for all of these cool things going forward.
+
+Fred 03:07 
+But those are the three elements in terms of revenues, the revenue model is different for each product. The Presenttreasury path, you, the client, so the issuer pays us 2 to 10 basis points running on whatever the issue through us. So if I wish you 100 million, I would be paying Presentcm 2 basis points running for five years if it's a five year bond on that product. So it's a nice recurring income type of stream and it's also scalable in volume. So the more I issue, the more I earn Ma. The marketplace is also very valuable to us because it's scalable in terms of volume. However, given that we only issue CP on that product at the moment. In that market, it is not profitable and it will remain unprofitable until we start issuing bugs. I'll explain the difference in fees. We earn a quarter of a cent, that means 0.00, I don't kPresenthow many zeros to five times whatever is issued on that at the moment. That just brings the revenues to 100,000 to hundred thousand. It's a very small number. Issuing bonds of that, you can charge 2 cents, which is eight times more. So this is why it's very important to shift the business to issuing bonds of that marketplace. You will be the only primary marketplace in the world, because all other marketplaces are secondary I trading of existing bonds, this would be the only marketplace we can create bonds real time as well, and that is also a profitable proposition. As soon as you can do the issuance of bonds there for 2 cents on any volume issued.
+
+Fred 04:57 
+However, that requires people to get onto the documentation first because you need to get the docs done real time. And that is why the sequencing of events is very important when you talk about traction. And that is PresentTreasury can happen on its own, and that is happening on its own.
+
+Fred 05:15 
+We're getting a nice pipeline of business rather than, we'll talk about that at the moment, but the Presentmarket depends on the adoption of Presentpros and the Presentdocs. So people start getting the documentation automated. Once they've done that, they can move on to the marketplace. And the adoption of that, this documentation is a software solution, is a Saas agreement, is not based on volume about issued. So it's a fixed fee somewhere between 70 to 100,000 for an issue, somewhere between 100 to 200,000 for a investment bank. So those are the two paid ads for now. Docs. I hope that's clear in terms of the types of revenues that's are possible to generate out of this business. But the key thing, when we talk about traction, is to get people to choose our process and our automation and our machine readable language standard, and that service still button down into remember and we have three parts. So it's these are the different companies.
+
+Fred 06:23 
+Presentsee Luxembourg has done our treasury. Presentsee in France has the marketplace and the software is in Presents in EPF services on our cm services. I think it's cool Presentofficially. And that's where we have all this offer solution, all the people, all the co, yeah, all the costs and everything.
+
+Iris 06:43 
+So, sorry, repeat your last sentence.
+
+Fred 06:47 
+That Presentdocs, the software solution is in our Presentcm services, which is under the holding company. I don't know, it's 100% own. And that's where we have all our people, all operations, all our costs, all our IP is all there.
+
+Fred 07:02 
+Hello. So Presentmarkets are not, Treasury is a separate vehicle, which we don't consolidate for regulatory reasons and also because the amount that's issued through there, we don't wanna have the amount of issuance on our own balance sheet in, on the consolidated balance sheet. Presentcm is, of course consolidated, but let we keep all the operation.
+
+Flo07:28 
+Just sort of to add, I think, alert when we go over sort of to the numbers or consolidations and pro proforma, as I would call it, performa consolidation. I think, Fred, you've put together large parts of a very good memo, which was part of the CLN of the convertible loan node in November, which I think has, of course, on top of the slides, basically very similar information. And I think it's good sort of text or browser to read. I think it did. It's like 20 pages explaining. And.
+
+Fred 08:00 
+Yeah, target, that would be good. Cuz this all describes the business as well. Yes, when can you start home? So by getting back to product development, let's focus on the question. So, but I wanted to highlight how my answer fits into this whole question.
+
+Fred 08:12 
+Our product development this year has been focused on this Presentdocs. So we revamp the entire setup of Presentdocs into a new user interface based on feedback from Golden, Kfw and others. And we started marketing this in January, sorry, June, July. And at the moments that is been our entire focus. Our focus for product development next year will be on bringing the old PresentCP user interface into the same user interface as the new Presentdocs.
+
+Fred 08:54 
+So we're starting the development of that Presentthat we're finalizing, have finalized the Presentdocs implementation. So Presentdocs implementation was much more complicated than we anticipated. Part of that had to do what we call a partial. A parcel is what's reads one text and then reallocates it into somewhere else. And we made it much more generic so that we can expand it to, eh, other products and not only bonds. And that process was much more complicated than we envisaged.
+
+Fred 09:33 
+So it took us, I say, about five months longer to get that done than we had anticipated from a product development perspective. We were planning to get it done, finalized in may, but it didn't get done until about November.
+
+Fred 09:48 
+So this is, and Presentwe're rolling this out with a whole bunch of other people. But we talk about C traction in a moment. In terms of other product development, we of course, looking at M&A. So there is a company called on brain that we're looking at, which is similar to PresentCP. We may or not buy them. We're still in the Loi stage with them, but we're looking to get exclusivity that may affect our product development schedule for next year. And we also looking at two other candidates. One is a couple called Fin Smart. They have software that focuses on investor. What about analytics and investor analytics and there's a company called Agra, which I think John knows from earlier discussions. They have approaches again to see if there could be a solution to merge their business into theirs. Incidentally, Deutsche Burza, which is the largest owner of our main competitor, origin, is also urging us to merge with or somehow get together with origin. I don't see that happening anytime soon. The product is inferior. The traction is decreasing. So yeah, okay. But maybe that helps you understand where we're in product developers. Yeah, and how it fits into the a dominate dialogue and how it fits into these three pieces. And anyway, this is recorded so you can of course, listen to this again. Yes, you know, she works and of course, call me anytime if you any questions. But are there any other questions on product development before you wanna move to.
+
+Iris 11:46 
+So how about like in the first half year in 2,023? What's, what's your focus at that?
+
+John 11:55 
+This is a format. But Fred, you talk about the actually when you talk about the product development and also the merchant acquisition is for 2024, right?
+
+Fred 12:06 
+Okay. No, so I talked about I to, I talked about the Presentdocs was for 2,023.
+
+John 12:12 
+Whatever you talk about for 2023. Okay.
+
+Fred 12:15 
+Yes, yes. Okay. Apart from the marketplace, which we Presentfor that, we have finalized the revamp and the redoing of Presentdocs. So that we're Presentmoving on to implementing the user interface for the marketplace to be the same as PresentDocs. At the moment, it's the old PresentCP user interface. So that's why it's important to so see that's our product development for this year is the marketplace.
+
+John 12:51 
+So basically 2023, whatever you talk about previously is for 2023,2024, it will be the user interface.
+
+Fred 12:58 
+You, you for the marketplace, it's in the mid, the middle part. Yeah, the middle part. Yeah, the right part. Now, docs is what we focused on finalizing during 2,023. We expected it to take to be finished in may, but it was finished in November.
+
+John 13:17 
+So s November will be everything's done right for the. No.
+
+Fred 13:22 
+It was finished in 2,023 in November.
+
+John 13:25 
+Oh, everything is finished on 2023 in November, right?
+
+Fred 13:29 
+On the on our docs. Yes, it's all it's all up and running. We Presentstarted the first clients. It will start its entire funding. There's a real bank. They will start using the funding here in the coming weeks or.
+
+John 13:45 
+So. What about the marketplace, the user interface? Is it finish or it's just starting?
+
+Fred 13:49 
+No, that's just starting now, just to start study. But it's operational, right? It's operational and already, but we have to, the re, the reason we're having a little bit of a stall on that is that if we buy on brain, it's a similar animal to PresentCP and the marketplace.
+
+John 14:06 
+Oh, okay. Okay.
+
+Fred 14:08 
+So we need to see, you know, what's the best of both worlds. They don't have this MTF. The, the, for your benefit, Iris, and MTF is a multilateral trading facility. And that's effectively like having an exchange. And they will be transitioning their clients onto the our MTF. But it doesn't mean that we may use our interface and everything. They have a couple of very good solutions as well. So.
+
+John 14:36 
+And since we don't kPresentwhen is on brain discussion will be closed or finished, so we don't kPresentwhen the user interface for the market to be close, right?
+
+Fred 14:51 
+We don't kPresentwhen it's gonna be close. That's correct. We designed it already and such, but we haven't programmed it.
+
+John 15:00 
+So in that case, 2024, actually not much needed in the product development because most of the things done in 2023.
+
+Fred 15:10 
+I think that's arguably correct because the, the, the word, the biggest work was getting the data model to be fully generic for other products, and that was more complicated than we thought. We actually had to redo the past 3 times during last year. And ad we, I say that, that would, that is the, by far the biggest amount of work that need to be done. A trading platform is easy. Just have a prices, you know, no, it's done. We have it. We just need to make it look nice. It's nothing he complicated about that.
+
+John 15:50 
+So it's true. Then there. Yes, it's understanding. It's work.
+
+Fred 15:54 
+It's more of a psychological thing, right? How do you get people to interact with your marketplace? How do you get them to be there regularly, not just to trade, but also to evaluate?
+
+John 16:05 
+This is a user interface that you're dealing with, not the right, is a user interface that, yes, what is the right path to do the cosmetics part?
+
+Fred 16:14 
+Cosmetics part, yes, correct. To run.
+
+John 16:15 
+How to run through those systems, right? So basically when the.
+
+Fred 16:21 
+User, the end, the code is.
+
+John 16:23 
+Done, right? So when are you going to launch the new interface? Where is the plan.
+
+Fred 16:27 
+For the marketplace?
+
+John 16:28 
+Yeah, for.
+
+Fred 16:30 
+Well, we launched it already in in the, on the 6th of december in at the I at the ICMA events in London. So, and we had a lot of different people attending that. It was, it was, yeah. So we, that's already launched.
+
+John 16:50 
+Oh, I see. So it's done already. 2023. So actually not much. There won't be any much work done for 2024 because everything is done already in 2023.
+
+Fred 17:05 
+I think that's a fair assessment. We, we, there's a lot of people that we don't need to work as effect, as hard as we had this year.
+
+John 17:17 
+So any, maybe.
+
+Flo17:18 
+If I can, Ju, just sort of to put things in perspective, I think, of course, you will have some developers who will have to maintain the product or have no. But more client service goes down, some other areas will go up and other product development continues. Then, for example, in France, not in.
+
+John 17:37 
+Yeah, so does it.
+
+Fred 17:38 
+And also we also have, it's done Presentthat we also have a plan, right? There's a lot of things we want to expand, improve, develop. But you know, we have versions that we have in a launch plan. So to say.
+
+John 17:56 
+Okay, well, if everything is done, how does it impact the number of the developers in your in house or there's no impact?
+
+Fred 18:06 
+So at the event we have a Roberto, we unfortunately had to part ways with Roberto as a head technology guy in the autumn. So we've hired Michael Shaw, Safa. John Safa is likely to be able to take over the CTO si position at Presentcm. He's been with us Presentfor a little, for a couple of months already, Josify headed up the Digital Architecture of digital assets. Yeah, I don't kPresentif you kPresentthem. It was that Goldman uses for their GS tab and so forth. And he will be having an on sites session with the it team at the third week of January to revamp the team. So that will be the opportunity to assess exactly how many people we will need on it for this year's development or not. But yeah, it will be, if you a number, then we have to then. So at the end of this month, we will be able to give a better and clearer view on what the it team will look like June 2,024.
+
+John 19:25 
+Well, it's tricky because you need those people when you need it. But if you bring it in and let go, and I think it's kind of tricky, right? So you have to be the balancing. You don't want to let go most of people. I mean, Frederick.
+
+Fred 19:41 
+No, no, no. So, no, we don't want to get. So this is good, but I think it's mainly we're focusing on how they work.
+
+John 19:49 
+Yeah, and also.
+
+Fred 19:51 
+What we noticed, for example, given when you go from production or the other sort of development and you go into quality control, the quality control people didn't always understand the business applications of it. They were just reviewing code and it so looked okay. But when the business people then started using it, they realized that they quality control, I haven't think thought of certain things. So we need to improve the quality control to shorten the development process. Presenthow they do that, whether that's a shift in the types of people that we have in QA or whether we need to have different types of people in the various as a development from front end to back end to the people coordinating. That's the product managers and so forth. That's all what they're gonna be deciding in the third week of January. And in Portugal. And Joshua Josepha has already been working on this for two months Presentas a source a. It sort of review in a proposal as to how we gonna, yeah s notice this streamline, but make it more efficient.
+
+John 21:04 
+Hey, Flo, I think it's easier for you to give headcount plan to violence. So just a forecast. It's not something serious, but something.
+
+Fred 21:14 
+Just we we have something.
+
+Flo21:16 
+Execution planning. Just sort of to give you a bit of context, I think in terms of headcount plan, that's typically driven by the business. For example, we, I would indeed look to Fred and John so far to give me that. But I think it's important that say purely from my perspective, active it, that's not just the CFO head. I would of course say, as you said, do we need those people? I think that's, however, strategy we're working on, for example, to actually retain some of the key talent in house. Yeah, because all some of them are contracted by an agency.
+
+Flo21:49 
+However, I think it's important to note, I think, for example, Fred and constancy symbolize that. Fred taught the existing 20 guys and not counting some of the automates like pilot, right? You said we have automating people, but we also have developers, UX, UI. I think Fred gave a lot of tutorials to teach them about capital markets because really it's about capital markets, legal and soft. Well, and for example, Robert and constancy work a lot on the data flows and on the business rules. So I think also there, they, the people are here in part, some people join in 2022 from these agencies. They're still here today. So we have a name by name grid. And from some positions not filled, it's maybe not by name, but by skill set. But really it's about utilizing and quality as well, not just, let's say, reducing external people or reducing the overall number. I think that to lead the teams, given the complexity of the platform and the product, is something where, of course, we want to retain the key people and really try to form a performing team.
+
+John 22:44 
+Yeah, I kind of worry that you get rid of most of people and then when projects coming in and you get more work, you rehire them again. But at the same time, most people and.
+
+Flo22:56 
+More native than less. I think I get what we need rather more people than less than to, okay.
+
+John 23:03 
+Because I.
+
+Flo23:03 
+Opportunity to grow in the.
+
+John 23:06 
+Marketplace pressure that most of the work is done already. So I thought you're going to carry most of people.
+
+Fred 23:12 
+No, we're not gonna get rid of people that like on mass. We have a continued development plan of the product.
+
+John 23:17 
+Okay. Okay. We.
+
+Fred 23:18 
+Gonna, we wanna retain people that are good. We wanna move out people that we're, we do not believe has, have the right potential. Right, right, right. We of course want to have as many people hide by us full time. We're using the agency more like a revolving door to filter out good and bad people. So with each time a new person comes from the agency, we have six months to sort of assess whether we want to keep them or not.
+
+John 23:46 
+And then they're like consultants, they're, you know, the agency or they're permanent staff from for those here.
+
+Fred 23:52 
+So they are like permanent stuff. They're exclusively working for us, but they're technically we pay the agency and we don't pay a salary.
+
+John 24:01 
+No, I see you with the data. Correct. Yeah, usually it's more expensive. Higher.
+
+Flo24:07 
+Yeah, correct. We sort of, we came in as you know, initially we work with two agencies, one from Singapore or with a lot of Eastern European people and one from us also with Eastern Europe but with Vietnam based people and so on. And I think then when we open Portugal, we had we had and have some core people like Jets and Campello heading the team interim with Sean so far right Presentand he's here since I think August 2022. And so we have sort of core people, but the strategy was that the agencies, as you said, a bit more expensive, give us actually more flexibility, which we needed at the time, like the old people, Alex and Ellen. Next, we have PresentI think 5,6 agencies with the strategy ever to in source the key talent and sort of mix a bit of a cost and quality and flexibility for us. But I think, of course, we have the, the, you have to have like a triangle, which is typically in it you want to have high skill and quality people, as Fred said, more QA and service. Of course, you want to have as a startup some flexibility and employees are a risk and you want to keep sort of just the key stuff minimal. And I think that's, versus sort of ends meet.
+
+Flo25:13 
+I think in terms of numbers, I said we will give you an updated headcount plan. I think traditionally, as probably you can count sort of 30 not full timers to the text and it and security staff. Yeah, I think we could.
+
+John 25:26 
+Spend enough time on the box. I think let's move on.
+
+Flo25:29 
+More like to have a ballpark. Just, you know, they don't majority of the team are really at the very close, of.
+
+John 25:34 
+Course, but Floand Frederick, we don't kPresentenough and we should not trying to, you know. But it's a hard.
+
+Flo25:42 
+Button. It's a key part of this, right?
+
+Fred 25:45 
+There's a shift, however, which is it important to understand on the personnel, and that is, you're right, we going away from development, pure development, and we're going it, there's two critical areas that we have personnel needs. We'll, the first one is automation. Presentautomation are the people, they're not it people, but they're the people that automate the legal contracts. That is a, that is a very important skill. It's a tricky skill to find good people. And that is a bottleneck because it affects the speed at which we can onboard and get people to use the platform. The second bottleneck we have is also in the onboarding process. We allow onboarding like 30 odd clients at the same time. And that's of course a cumbersome.
+
+John 26:42 
+Yeah, yeah, sometimes.
+
+Fred 26:43 
+Yeah, we have Presentset up processes for that. We have a team of six that focuses on that. So that will work about we need less is sales. And that's the weird part because we're Presentgoing into meetings where the product has been pre sold by somebody else. Like for example, I give you an idea. Before Christmas, I went to see a dance bank in their, that Capital Markets team in Stockholm. And they were just there to review the product because Knowledge Investment back had already told them to use us, right? Same thing with association about a meeting before Christmas. They'd already been told by the council or your development bank that they wanted to use that, use them. So they were not selling like we just showing what they're gonna be using. It's very different.
+
+Fred 27:41 
+Another scenario was BNP Kfw wants to use them on their first transaction. We just presented it to BMP and this is what you're gonna be using. So yeah, it is a change in dynamics and which is very important to. Okay, so.
+
+John 27:55 
+Let's we get the money. Should we get the money? Because otherwise I, I always, yeah, so.
+
+Fred 28:00 
+Okay, so on the funding side, it Presentfinally looks like, and I like not, we need to get back to you on this because it depends a little bit on the MNA situation, what we're gonna do and what we're not gonna do. But it Presentlooks like perfin is coming through. So they have got all their clear stream and paying agencies, the stuff clarified. So they should be putting in their three point seven million in short order. We're asking for a valuation of 125 from them. Presentgiven that they're delayed, we'll see to what extent we're successful.
+
+John 28:39 
+You're successful, not successful, 10 and 25.
+
+Fred 28:42 
+Well, I hope so. We'll help some impressions.
+
+John 28:44 
+So it's not fixed yet. Okay, there's a pre money, right? It's a pre money 105.
+
+Fred 28:50 
+That would be pre money at 135.
+
+John 28:52 
+Million pre money. Okay.
+
+Fred 28:54 
+And that's also the evaluation we're doing it for now, cm at the for the merger discussion with or on brain and evaluation is 22.5 in our books, and our valuation is 125 pre money.
+
+John 29:13 
+Eh Presentcm is hundred 25 on brain is 22,20, two and a half.
+
+Fred 29:19 
+Yes, they will give them 15% to the business.
+
+John 29:23 
+Be what is that the total budget acquisition or this is only a partial.
+
+Fred 29:28 
+It's a 100% share for share as well.
+
+John 29:31 
+Square share the shares. Well.
+
+Fred 29:33 
+So it's no cash use, but there will be higher cash operating cost. So we need to make sure that we have that finance. They, they do, they're not finance for the full year, right?
+
+John 29:43 
+So the value we need to do on brain bringing must be tremendous, right? Otherwise, it's so you don't wanna do that, right? Correct. Is a business side or the technology side, you want to bring them in on brain.
+
+Fred 29:58 
+We like the attraction with their clients. They're getting really good at getting their people on board. They, they, okay. They issue a few hundred deals a month.
+
+John 30:09 
+And who are there? What is the shareholders looks like or not break.
+
+Fred 30:14 
+A quite a lot the quite a lot of small people. Yeah, so what we put in our Lois, we like to lump them up in a service PV, SP.
+
+John 30:23 
+SVP. Yeah, yeah, SPVs, PV here. Okay, this, but this bad idea. Otherwise, it's a mess.
+
+Fred 30:30 
+No, yeah, we can't dislike 50,60 shareholders or something.
+
+John 30:34 
+Like that. Okay, so.
+
+Flo30:36 
+Best relations and legal function wouldn't need to be built up.
+
+John 30:42 
+What is the cash position mean? Is that okay? You have enough cash to run through to train join for or what.
+
+Fred 30:48 
+Was. So we're doing a few things. We will, we won't be needing as much cash immediately in PresentCP, so we're moving some 500,000 out from France to support us. We will need perfect to come through here. We still have some outstanding. So, so, but on the convertible, we're still waiting for Dominic to come through. So that is not done yet. So.
+
+John 31:18 
+Dominic, how much they're committing? Dominic, our Dominic.
+
+Fred 31:23 
+His share would have been something like 500 k or something like that. But it, we, we, what my focus on is right Presentis to aid get that done, but also to finalize. Perfect. So we have the 3.7 him. The next partner is a guy, a company called Fintech AG in Switzerland. And they also wanna put three and a half million of, but they're more at the evaluation of 100. So we're not quite sure yet.
+
+John 31:56 
+Oh, not sure. Okay.
+
+Fred 31:58 
+Well, they, they, they talked, we talked to them before and they so commit to the three and a half an evaluation of a hundred. So if we 109 effectively post money from the capitalizing.
+
+John 32:08 
+You would create a lot of mess because you have two numbers, one and 25 and hundred and nine am yeah, you should not do that, right? So, yeah, yeah, it's going to be a, you have to stick to one number, I think.
+
+Fred 32:20 
+Yes. Yes, sir.
+
+John 32:22 
+Tell them that is. Maybe compensate them a little bit by some other means, right? Can you do it? Because the difference is not big. Because if they lower 209, your on brain does share exchange is going to be bigger chunk from. Yeah, exactly.
+
+Fred 32:38 
+Yes, exactly.
+
+John 32:49 
+Yes, yes, yeah. Okay.
+
+Fred 32:52 
+That's right. So if we get the three and a half there, we finalize fins, sorry, perfect 3.7, and we finalize the convertible. That should keep us going until, what is the September, something like that, Gloria.
+
+John 33:08 
+Sure. Well, our money is not for convert. Well, you kPresentthat we're not intended to convert to shares. No, that's correct. So yeah, so some point that we'll take the money out. Be careful. That's exactly.
+
+Flo33:21 
+Closest to get to the a round.
+
+Fred 33:24 
+Later. So yeah, so what we try to do is we try to make sure that we do the a run at the right time and the a round will be primary.
+
+John 33:34 
+Whatever we talking about is not Iran. This is, you know, 3.7.
+
+Fred 33:38 
+This is not the.
+
+John 33:40 
+Error. This is secret.
+
+Flo33:42 
+Would be a more institutional round, which we call the a round. Though right Presentwe have sort of not just one round, which is sort of a meaningful in size. And I think also in terms of timing, as Fred said, sort of it, when I set the goal, it's more, it's more because you need to have people have a goal, needs to typically have a timeline. But I think it should also be matched, as we talked before, to sort of when the client traction from the product development is right and initial client wants. What.
+
+John 34:07 
+Means, what time is the institutional route, what is Iran, when is going to launch?
+
+Fred 34:12 
+We wanted to be in.
+
+John 34:15 
+Q3, three, Q2, four. Have to do it. Can we do it? Right? So because the, the CLN, the, the, I think the maturity days, the end of these 2025,2024, right?
+
+Fred 34:28 
+So we wanna do that's what we say what that's why we wanna do Q3 so that we can pay back the CLN and.
+
+John 34:36 
+How much you're raising on the a round.
+
+Fred 34:38 
+We were, so we were looking to do 50 million in total on which we were thinking in the region of twenty primary to 20 to 25 primary, something like that. And the rest would be secondary.
+
+John 34:57 
+Oh, so 2025 primary, that means twenty third, 25 to 30 is a secondary.
+
+Fred 35:03 
+Yes. So that the idea would be that would be the cleaning session for you guys.
+
+John 35:07 
+Okay. So.
+
+Fred 35:09 
+We would be able to sell whatever you wanna sell or derisk. Yeah, to get your convertible learn. Hey, Becky. And there's a couple of other shareholders that wanna do this.
+
+John 35:19 
+And what's the pre money valuations at? What is your planning?
+
+Fred 35:24 
+Well, we wanted to have a two number on it, but that really needs the KPIs. The good thing is that we have the traction now. So we, we, we, it's all about how quickly we can onboard people and create the clarity around that we're gonna be the standard going forward. I think we really have a good shot at this now. So.
+
+John 35:42 
+You have any range in mind that you want to set pre money?
+
+Fred 35:46 
+Well, if you're Dominic, he's at 400, right. And if you're. See, I'm at.
+
+John 35:52 
+200 is more realistic. I think.
+
+Fred 35:54 
+Don't be too great. Yeah, I mean, it's already ambitious, right? But people are people will understand the when they see the types of clients that join, then the potential that we can do with them, right? Yeah, it's not just a one trick penalty. This.
+
+John 36:07 
+Alright, this is somewhere between 200 and 400, maybe I would say. Let's put this range right, and then closer to 200, right? So she has to report to the auditor.
+
+Fred 36:18 
+It should give you a nice return to.
+
+John 36:22 
+So, so of.
+
+Flo36:22 
+Course, numbers, right? So Iris, again, sort of in my role at, I'd like you to, of course, revisit the CLN memo because let's say these are, of course, let's say, need to be caveat that I talk a lot to auditors and Pwc and KPMG also one of our auditors here, directly related entity. So you just need to give them the right frame, right? It's still a gross, not maybe a startup, a company, but let's say this, of course, need to be put in the right.
+
+John 36:47 
+Context. So what is our shareholding? I forgot 10% or something?
+
+Fred 36:52 
+No, let me s, let me, let me check here. Let me check.
+
+John 36:55 
+Something like 14% or something. I think.
+
+Fred 36:57 
+Do you're not small.
+
+Flo37:00 
+Correct? I think it's 13 percentage.
+
+John 37:02 
+Thirteen.
+
+Fred 37:06 
+Hold on. So we're not sectoring.
+
+Flo37:07 
+In some things like CLM converting or ESOP and this and that. But.
+
+John 37:12 
+Yeah, it's so with this.
+
+Fred 37:15 
+Without the shop, you're Presentat I think 12%.
+
+John 37:21 
+12%. Okay, 12% of 200 million is 24 million. I'll take up all the scenery.
+
+Flo37:28 
+Yeah, I think that's according to some provisions. No? Yeah, this browser, right? I think it's probably to act in the best interest of the company's wanting. But I see.
+
+John 37:40 
+So we may not mix.
+
+Flo37:41 
+It. We would hope to not see you go.
+
+John 37:43 
+Yeah, maybe three.
+
+Fred 37:46 
+The, let's put it this way. The the ESOP does dilute you, right? It dilutes you a little bit by.
+
+John 37:58 
+10%. Even 10% is 200 is 20 million. Yeah, right. So you're 20 to 25,30 million secondary shares would take. We do, we take up substantial, but let's say we don't take up entire thing, right? We otherwise it's not fair to other people, right? So yeah, everyone is more authorize.
+
+Fred 38:14 
+Yeah, what I'd recommend you to do is to derisk and take home a decent profit. And then let's see what you do.
+
+John 38:21 
+Yeah, yeah, I did that because I'm under pressure, right, Frederick? You kPresentthat.
+
+Flo38:25 
+Yeah, director, you will need to do the allocations, but first you have to sort of sort of firm up sort of the demand for those 50 million, right? Sort of me coming up more personally from, for financing and Goldman backgrounds on, but I think I, it's a couple of steps and I really crucial for many of us, the different heads on.
+
+John 38:46 
+So if you have free money, 200 million and raise 50. Oh, it's only three. It's only 25. Because 50,25 is.
+
+Fred 38:55 
+Yeah, silly 25 primary, right?
+
+John 38:57 
+It's like 20% solutions, right? 12 of it, you know. Okay, it's good. Okay, understood. Okay, so that's the violation. But with.
+
+Flo39:06 
+That gross money also violate, there should be an increase in revenue. So both together should, of course, give quite some runway. But in particular, sort of for example, if you again look at the CLN business plan, which today is the, it's, we have, we didn't factor in sort of a real growth case, right? Sort of our staff, for example, is supposed to grow a bit. John to ask you, good to ask, answer your question on, for example, headcount resources, but it shouldn't be sort of halted. We wouldn't let go people because I think we have opportunity in the marketplace.
+
+John 39:37 
+Which we, yeah, I kind of worry about you let go people and then you have to bring them back again, this big mess. Yes, no.
+
+Fred 39:43 
+That I.
+
+Flo39:44 
+Think so then we explain a bit. Remember, we explain a bit sort of how we want to run the teams. But I think as Fred said, it's, especially with a large number of people in the tech team, which we need under review in this month. And I think we also owe you a budget update.
+
+John 39:58 
+Right? Right. And okay, so, but you'll.
+
+Flo40:00 
+Also get John as a director.
+
+John 40:03 
+Budget is for to do 2024, right?
+
+Flo40:06 
+It's typically a 12 month budget, which we update.
+
+John 40:09 
+What is your fiscal year starting is the January 1st or there's some odd num update? Your fiscal year.
+
+Flo40:17 
+Only in France starts 1st of January, in the other countries 1st of November. But sort of the finance, we update the numbers monthly. So we basically can tie them together three, six or 12 months at any.
+
+John 40:28 
+So rolling 12 months. Okay, so you need, I think it's fine, right? You don't care about the fiscal year stuff. You just need.
+
+Flo40:36 
+Roll, you typically need December for to match your.
+
+John 40:40 
+January. We like to have s the rolling forecast for the from January onwards until December. Yeah, because you all by one month. So I think I hope you can give us that take a day. Okay. Do you have, I think.
+
+Flo40:54 
+We get a bit of a forecast in the CLN memo as well for the year, including sort of the including a budget, I will split this out and point you to the right. Okay, a page violate if you like. And I think then in the course of the next weeks, we will have an update. Eh.
+
+John 41:09 
+Flo, is the CLN budget is month by month or quarter by quarter? I forgot.
+
+Flo41:14 
+It is month by month. I think it's on 2 to 7 as a detail table, which probably today is the latest and it shouldn't be so far off. Okay, cuz let's say the company and the complexity of the product is not like that. Next month you adjust 50 or 70%. These are more notches of, let's say, a 10 percentage. Okay, James, it gives you and to audit probably a good look as to what we what our estimate as of I think mid November was and for okay, fully.
+
+John 41:40 
+So basically we still can trust the budget you have a month ago, a month or two months ago, right?
+
+Flo41:49 
+I, it's our best estimate, even though, yeah, okay. Well, we've Learned quite a bit 12 months back to now. But I think as of today, we're working on an update. However, for, and share this with you.
+
+John 41:57 
+What about 2023? You have the numbers, the revenue number for the first half year, 2,023.
+
+Flo42:08 
+Will be hard to hear about that. I apologize. Sorry.
+
+John 42:13 
+Available to you number. Do you have it?
+
+Flo42:18 
+Can you repeat that?
+
+Iris 42:20 
+What is the revenue for the first half year of two thousand and twenty three.
+
+Flo42:26 
+So we've tied up the numbers until October. I think we had 240,000 in revenues for the 12 months ending October 2023. That should not look too different because November, December, we didn't have many more. If you're just interested in the first half year, let me look that up for you.
+
+John 42:44 
+Why don't we just have all the months month by month, then you.
+
+Flo42:47 
+Have all the numbers, right? I can send you a month by month time series on the revenue. I can send this today still to you. Yes.
+
+John 42:52 
+Yeah, you. So I just ask about what we ask month on month, but she said that you don't have it.
+
+Iris 42:57 
+Because it's not consolidated.
+
+John 43:00 
+A lot consolidated.
+
+Flo43:01 
+So exactly like let just to put it in perspective, I'm we will send you the time series and I think it goes right Presentuntil November and December. We're just wrapping up. I'm, however, the Ireland company where you have shares in it, it's a holding company. So there is no need to consolidate for accounting reason. So let's say when you get the numbers from Ireland, there is really some cost for the secretary and for the auditor. That's it. And it has three operating subsidies. These three are not consolidated sort of. However, what we're putting in is a performer consolidation in the course of the year because for one, what matters to us is a cash look. And for that, you don't need to consolidate. Consolidation as a lot of accounting mechanics. It has the amortization and IP and so on. However, you have some complexities, like Fred said, Luxembourg entity which is regulated, it has 120 million balance sheet or hundred nineteen point something. You do not want to fully consolidate because this actually would undermine this independence, correct? Where it's supposed to be a platform independent. That's how it was designed. So it's just a 40% stake. France is a 68% segath minority.
+
+Flo44:08 
+So let's say in Ireland, one day we'll have an accountant, but right Presentwe do not do a consolidation also because there is no need. However, for investors, we provide a cash look and I can basically give you sort of the revenues, brands, Luxembourg, and then there is some intro group revenues. I'll send you both times here, sort of excluding and including intro group revenue. So the numbers, just to give you a ballpark, the full year revenues for 12 months ending October is 240,000. If you take out about hundred ten thousand euros with intra group revenues from France. They're basically paying for software to Portugal is hundred ten thousand, you get 230,000 revenues for the full. Yeah, 12 months ending 2023 in October. Two months forward to December, it should look almost the same because these are recurring revenues every six months or every one month or every 12 months. So basically, have you counted that gives you a magnitude of what revenue has been recorded. So basically, me as a CFO, I don't like hundred ten thousand that come from France. To me it's the it's left pocket, right pocket. So that's why the hundred thirty thousand to me meta more. But overall it was 240,000 revenues recorded. I'll send you both perspectives and happy to have a follow up call to guide you through those numbers.
+
+John 45:23 
+So it's 103,000, right? The revenue is hundred 3,000 instead of 240.
+
+Flo45:29 
+Correct? I can, I can actually, I don't kPresenthow much time you have or who has to jump. I can put it on the screen. I have it actually ready for you.
+
+Fred 45:35 
+I mean, it's for sex and purposes that's in mind. And that's pre revenue business, right? The revenue really.
+
+John 45:42 
+Starts. It's fine. Just someone behind violate asking for these numbers. So she has the, did you show responsibility to get these figures from you guys? Yeah, for sure.
+
+Flo45:53 
+No, and it's more like I, I, I would, I wanna point out, as I said, Iris, that let's say there may be a bit of a constrained resources. Yes. And we can always pull things together. I don't kPresentif you can screen.
+
+John 46:08 
+Yes, really good. I'm doing screen sharing, so.
+
+Flo46:12 
+Not sure. My computer rose while doing that.
+
+Fred 46:16 
+Yes. And we can only see a black screen says Flohas start his screen sharing. That's it. So.
+
+Flo46:24 
+Talking about resources. Just my computer gave you the message. No, I think so. Typically what we do is we can produce ad hoc analysis.
+
+John 46:37 
+And.
+
+Flo46:38 
+I show you that I think what we do not have is a real consolidation in Ireland. There is no need right now. And to include that, you would need to make everybody reports local gap. You need to change the accounting standards in the countries. It costs a lot of money in each of the countries. And on top in Ireland.
+
+Flo46:54 
+So what we thought about is, and we're implementing a software also right now, which is about 1,000 a month. It will be implemented during first hour, first quarter. And then, how do I read? I cannot.
+
+John 47:04 
+Say Flobefore we dive into something else, how do I read these figures? Right. You have.
+
+Flo47:09 
+Exactly. Just sort of to put into perspective how we pull the figures. So right Presentit's done basically manually by me in an Excel sheet. In the future, we'll have a softer doing that and it will be ready in second or third quarter. We'll test it a bit that the numbers match exactly and it gets, it's a bit more. Okay.
+
+John 47:27 
+Excluding intro group is 1:36 thousands increase groups 2 to 47, right? So forget about the intro group, right?
+
+Flo47:35 
+Correct. So basically, as I said, 2036 is the group revenues excluding hundred 10 thousand, which France has paid to EPPF services. So basically in the treasury product, not treasury, made 90,000 for the software. There were no external revenues. We haven't built, for example, Ariel Bank yet. We made revenues from France or fi of hundred eleven thousand. That makes the difference here, right? So.
+
+John 48:00 
+Should I probably, I mean, this is gonna be interesting. Ju just ask a stupid question. Should I take the revenue hundred thirty six thousand plus 90,000+46,000. That would be the numbers right? There's two.
+
+Flo48:12 
+Basically you take the 90 and to 46. These are revenues from external clients. So 90+46 gets you 236 and money from France gets you done to 2:47. So for me, I said as a CFO matters, external revenues. The rest is most time surprising. Yes, for a fund purpose, it's this. And I think in the future, of course, the share of the external revenue should grow a lot. He would just have to be compliant for other things that is here for us to comply with, like transfer pricing, taxes, accounting. Yeah, and France is regulated. So let's say we cannot just give them software service for free, but this is at arm's length. And I think other things will need to.
+
+John 48:49 
+Follow. This is ending, oh, well, wait a minute. This is from may to November.
+
+Flo48:55 
+No, this is 12 months ending in October 2023.
+
+John 48:59 
+Okay. Okay. And then you set the November and December more or less the same, right?
+
+Flo49:04 
+So we've booked also here, we typically book so that Presentit gets into, we book, of course, revenues by, yeah, accrual principle in the country. So for example, here in Luxembourg, we make it every six months and we still have to build Hanniel. So yes, in no November, we booked revenues, which basically brings you, if you take out and November 2022, the and December 20 things in France, like.
+
+John 49:29 
+Yeah, looks like.
+
+Flo49:31 
+So more or less exactly.
+
+John 49:33 
+Yeah, looks like wallet has to explain to all the sellers. So.
+
+Flo49:39 
+Basically, if you think about it like this, France makes monthly revenues of like anywhere between 2 and eight thousand. That's always the same. If it however, you turn to 12 months and eppfsa, now, Sam Luxembourg makes about 35,000,45,000 each six months or annually, always in November. So however you turn to 12 months, it will right Presentfor your purposes turn out to about hundred thirty 536,000 news and asset Epps services. That's actually our sort of estimate.
+
+John 50:11 
+Can you guys do some numbers? Flo, can you put in numbers? Let's say this is estimated, you don't need to be, rather than we have to put out numbers.
+
+Flo50:19 
+Outlook, we have that in the CLN. So these are, of course, coming from the same database. So that's the history. And we can provide November, December, and then for the full year 2024, the forecast is actually coming from the same database and work on that with Fred. I think the CLN has the 20,24 and 25 for including revenue so we can highlight it out. But basically you have the data and this one will send you. But I happy to have a follow up call and guide you through the numbers or we can stay on PresentI have time until half. Yes. Okay. Can.
+
+John 50:51 
+The source of this revenue 100 and okay, three, six. Okay.
+
+Flo50:57 
+Sorry about it. You're a little bit hard to hear for me. Can you speak a little bit?
+
+Iris 51:01 
+Okay. What is the source of the revenue? Is it from Presentdocs or.
+
+John 51:07 
+Presentmarket? Lux is majority.
+
+Flo51:11 
+Of the hundred 36 is, yeah, not free here. 90,000 is not treasury. PresentDocs has just intra group revenues of hundred eleven thousand. And Presentmarkets. This is the commercial paper part, not yet the bond part. It has 46,000. So all.
+
+John 51:28 
+3 years. PM is the market. This is where CP is, right? And Lux is the was it was the docs. The this market once this not docs once my treasury.
+
+Flo51:43 
+Luck is not Treasury.
+
+John 51:45 
+Right? Treasuries. Okay.
+
+Flo51:47 
+Can put the product below so you can map it to Fred's high cost page.
+
+John 51:54 
+To, hey, I think, hey, Flo, I would suggest that you make it a cleaner table and then, and you avoid the same questioning coming from different investors. They'll ask the same thing. I think after my, me, Patrick, will you come around and say these numbers and then CK and then they does this go on, right? So.
+
+Flo52:14 
+Ops. So also if you have sort of agreed in mind or numbers to fill for the auditors, happy to send me a grid and I'll fill it. But we'll, we'll make, we'll link this to the product and we can make some chats around it.
+
+John 52:25 
+It is good. Why don't you send, why don't you ask the auditor what exactly they're looking for? Sending the table and he filled it up for you. It was easier, right? Okay. What about the outlook? Looks like two 2024. You have the Treasury, the CP, the markets and everything. Can you put it up and then we take a look.
+
+Flo52:45 
+Sorry, can you, it's a bit hard to hear both the story. Look.
+
+John 52:47 
+You mean the outlook? Yeah, 2024 out.
+
+Fred 52:50 
+Outlook for this year. I don't. May I share a piece of news with you, by the way, for 2,024. Before Christmas, we had a meeting with Natus Markets and also dessert bank. It turns out that they've been working together with Pwc and Kfw on a structure for the last two years. This structure is aimed at helping the German government refurbish or finance the refurbishment of all the real estate owned by the German state of, to reach a carbon net zero targets by 2,045 or whatever the numbers. Presentthe amount of money needed for that is about 300 billion. And they were looking for an issuance vehicle to issue bonds or short China out of that, which are probably three notes basically out of an SPV into which never they put anything from fire stations to police stations to mailhouses to hospitals and all sorts of things. And it turns out that PresentTreasury product seems to fit this extremely well. And if we were to be, and Presentwe're being proposed by that west and also like the Zen Bank to Kfw to use the Presenttreasury structure that could totally transform our business. Just to give you an idea what one event can do, that's about 60 million revenues per year for about 30 years.
+
+John 54:36 
+Yeah, so.
+
+Fred 54:37 
+The right sir, you, when you deal with capital markets, it's immediately that type of impact, right? So the, this would be a real whopper. It's already been approved by Netflix management, but then I'm pushing this together with Kfw, with kw onboarding us as well. This could be a real game changer for Presenttreasury and the whole valuation of the business. And that could also accelerate the round and all sorts of funny things, right? So we just need one or two of these events to happen. And then this, the game is, the business plan is irrelevant, right? So, but anyway, let's talk about 2,024.
+
+John 55:19 
+Quickly, just quickly go through that. And then.
+
+Flo55:22 
+So I, I, yeah, I bring up if you allow the, if you give me the second hope, my computer is fasting.
+
+John 55:28 
+Okay.
+
+Flo55:29 
+Okay. Iris, I assume you have, this is the memo from 16th of November. And I think here this is page 28. So I think initially I have a good 20 pages explaining the product and the business. And as Fred said, some things, for example, the nettest opportunity are not in here. But like, I'd like to say two things sort of here. You'll have the revenue forecast month by month in this row.
+
+John 55:51 
+Where I'll highlight this revenue, revenues. Okay. Oh, this revenue. Okay.
+
+Flo55:56 
+Basically here, month by month, we forecast across the different products. But underlying, it's a bit more granular. But also there, Fred and I, we talk typically every three months and that's sort of meaningful time. However, for example, you'll see that we have in the first quarter not factored in aggressively any revenues here. We factored in, for example, Fast infra. And in the course of the year, we have softer revenues planning in the second half conservatively, so coming to a 3 million in revenues that includes asset. Okay, Freddie can jump in. But I think at the time we said this would be fast info, but also market note, also bond from Haniel, that's not Treasury. We had Kfw and Arrow Bank factored in each for about 100,000 and then sort of some recurring revenues like we always make 30,000, for example, with honey in April.
+
+John 56:45 
+Yeah, go.
+
+Flo56:45 
+Earlier and now, and actually we satin in may for existing bonds, which pay us every six or 12 months fees. So it's a mix across the product that's in here, but I think that's, it gives a ballpark estimate. I think as I've told you, we broke through hundred thousand in revenues in the last two years. If a milestone for the company is clearly to make 1 million revenues plus in terms of cash revenue.
+
+John 57:12 
+Well, it is very critical because you're talking about what is numbers like 30 times increase in revenue last year is hundred 3,000, right? So you talk about 3.25, right? It's like 3,000. Correct. 30 times the $3. 30 times. Well, less than 30 times, but it's a significant chorus.
+
+Flo57:30 
+And I think that's true. And I think, Fred, you can jump in. I think less than August, for example, or July, we were in the market with Hanniel marketing their bond. And in the end, they didn't go ahead. But that bond alone would have made us 20,25,000 euros just for s, for sort of sessions. We earn money with honey also every month, but that would have been more than all the other things together of the hundred 36 as you've seen. So, and Fred gave you sort of four banks paying hundred two, 200,000 per bank joining this sort of so E each bank or two would actually increase already the revenues from last year. Plus we have the revenues of the past year, the hundred 36 should be sticky.
+
+Fred 58:09 
+This is super institutional, right? This is all about becoming the standard and getting the people to start using it, right? And right now, we have a really healthy dynamic around who we're talking to. Yeah, maybe I can show you a little bit, yeah, where we're, because it's not a revenue that just grows gradually. This is like this, everything or nothing. And this is why this is so important to realize that the revenue opportunity is much larger than any sort of incremental 10,000 euro growth. That's not the way this will grow. And maybe I'll just share with you.
+
+Flo58:44 
+Please do, Fred and asset Iris also. That's why sort of Fred and I, we work long together, but I think the leading KPI, sort of the information that Fred gives you about clients in onboarding and the names that's these leading KPIs are much better than sort of historical revenues or when we consider like plan, hey, second half the.
+
+John 59:03 
+Effort. Just sorry to cut in a quick questions. What about the, your budget for 2025 in terms of revenue of 2024,3.5. What would that, would you have some figures in the, in mind?
+
+Flo59:20 
+Same page to me. But Fred, maybe if you want, I think if you remember, we plan to go beyond 10 million, but it's really, yeah, but yes.
+
+Fred 59:28 
+As I said, the just that German opportunity is 60 million a year, right? So what do I kPresentif suddenly it's not the normal growth, right?
+
+John 59:38 
+It's, it's, yeah, this is usually.
+
+Fred 59:40 
+Scalable. It is scales up.
+
+John 59:42 
+So, but because there's also headcount plan associated that, right? Because you cannot just scale the business without scaling people.
+
+Fred 59:54 
+She, yeah, depends on how you set it up. So yeah, yeah, in in which in which product. So yes, Presentdocs, yes, you need more automation and all that stuff. If it's PresentTreasury, it's really done by others. It's the lawyers that work on it. We have a very limited role.
+
+Flo01:00:11 
+I, I think, Fred, before you go in there, and I think John, we're thinking a lot about that for five years now. Also in my role, I don't just look at revenues, I look at KPIs. Like, as you said, do we have enough people in service? Do we have enough people understand the business? So yeah, I think on page 28, we have a look also for 2025, or let's say two things. I think the run rate would grow to a million in cash burn on a running basis each month, and the revenues would go to about the same. So we'd plan a break even a second half of 20. But more importantly, when you look.
+
+John 01:00:42 
+At half of 2020 wins.
+
+Flo01:00:45 
+It's 2025 because you ask for it, I think importantly. So the overall platform economics, it's a good starting point to look at that page 2028, even though of course there are different cases, right? Explodes earlier, but people need to be trained. So let's say in the resource side, even with a gross case and a round, it gives you a good picture where let's say we sometimes need six months to change that picture dramatically when it comes training people and moving.
+
+John 01:01:10 
+So well. The reason I ask about this figure is to she you're planning, the No. 1 planning, right? So I think Frederick talks give me the right answer. You don't need to hire a bunch of people, but you need to outsource the stuff to Alice should help you out, right? So the way was the way we're doing it, understand otherwise a major impact to the organization because hiring people is still a big pain, right? Training people.
+
+Fred 01:01:37 
+So what, yeah, so the one way we're scaling up is by onboarding law firms. So that's we onboarding Alan and every link creators, Clifford, Chance, Simmons, and Simmons is already working with us. So we will onboard a few others like Norton Rose.
+
+John 01:01:59 
+Put in this way, Freda, Fred Flo, if you on 2025, if your revenue target is 10 million, I would be extremely happy already because it's from three minutes of the 10 minutes, three times free time is, yeah.
+
+Fred 01:02:14 
+It'll be disappointing for me. Are you disappointed?
+
+John 01:02:20 
+What is your number in your mind?
+
+Fred 01:02:22 
+No, look it, if it's 10 million, we're failing. Yeah, because if the thing is that it's happening now, right? So.
+
+John 01:02:27 
+What is the figure? Tell me the figure that then I see whether what to scale my adjustment.
+
+Flo01:02:33 
+I think that the case shown is the 10 million, but there are, of course, more ambitious crisis. I mean, John, that's basically in my head, right? That's why I came four years ago. And Presentis the time, of course, let's say positive loss. We don't want QBN to exit completely, but we're working day and night on this. As you said, we're training people, we're thinking hard about this, and nobody understands the business in that complexity like Robert and Fred. And I'm working with, you know, of.
+
+John 01:02:56 
+Course, yeah, company heavily, right? Let's say.
+
+Flo01:02:59 
+So let's say also at also constancy join. So let's say legally we have long disclaimers and we can show you different cases. Also, Freddie Mia Bank is, but really this is the next 24 months, will.
+
+John 01:03:11 
+Okay. David, the CFO, Floand Frederick, you're the chairman. Tell me the figures, the rate of figures. I haven't seen the numbers yet. Tell me the numbers. I talk about, Ted, you said this, you'd be disappointed.
+
+Fred 01:03:24 
+Yeah, I. If we really do well here, we get one of those big things like that. Yeah, we should be try to, we should be. And for next year, two or 25. Yeah, you know, I'd be happy with 50.
+
+John 01:03:38 
+Buyer. Fifty, 50.
+
+Fred 01:03:40 
+May not 5,50, f 50,50,50 million.
+
+John 01:03:43 
+Actually. And yeah, 200 million valuations too low.
+
+Fred 01:03:47 
+You should, yes, I think we know. We know. Yeah, we kPresenteven 400 villis too low. You.
+
+Flo01:03:52 
+Should sign up more of the CLM.
+
+Fred 01:03:54 
+And that's really just.
+
+Flo01:03:56 
+516 euro share price discount to the. And this.
+
+John 01:03:59 
+Is so this is.
+
+Fred 01:04:00 
+This is so it, yeah, at that point we probably were looking at different types of business solution. We probably spin off part of the business and create a separate part for the software.
+
+John 01:04:13 
+We'll talk about the, we talk about a round funding, right? Round a institutional funding. If your forecast is 50 million, I would can't.
+
+Fred 01:04:22 
+Say that publicly. We can't say this public.
+
+John 01:04:25 
+Of course, but you have to produce for the Iran, you have to produce the budget, right?
+
+Flo01:04:30 
+Yeah, right. So the CLN budget, yeah, that you've seen these two years is not the a round growth case, right? So I think it says it's somewhere the disclaimer says, okay, we take in money Presentin January from perfume and Fintech AG, as Fred said, and we have the CLN.
+
+John 01:04:45 
+No, then let me let me explain from my point of view, right? So if you're saying.
+
+Flo01:04:50 
+Case, right, we need a different. No, sorry.
+
+John 01:04:52 
+Right? No, listen up. So that this coming from me only maybe simple minded. So you, I ask about the range of the event evaluation when you do the four queue 24 fundraising, right? Free free queue for queue, right? When you do that, you have to do the rolling forecast of the next 12 months, right, to justify your valuation. And if your vest, if your revenue projected relevance, like what 50 million, then you takes times 12. So you talk about 600 million pre money evaluation.
+
+Fred 01:05:25 
+Yeah, I look, I yeah, so we we kPresentthis. We kPresentthis. The thing is what we see, the valuation works slightly differently with these guys. Because, yeah, one of the reasons is that if you bag one of the big, the, the, the, a big client like it really will, it will matters who you, but who you I have as a client, not, it's not about how many clients you have is who you have and what the rate to connectivity is. Because what you're doing is you you create yours, you're yours creating the standard for the way these instruments are described machine readably and also used how the data is used in other workflows going forward as to describe the risk, the life cycle these instruments. And if you become the standard of that, there's so many side products that come from that. Yeah, that people understand that they don't need to see. There's a few messages out there like Hida Sophia, for example, did it. And then, and there was another investor that we talked to here just before the name escapes me. He just needs to see a few of those names cuz he can then extrapolate from what the, what that means in terms of revenue because we're so at the DNA, okay? And so at the beginning of the value chain to recapturing a very unique little place.
+
+John 01:06:48 
+Let me share with you one case. We have the company, yeah, Rockefeller comes in and the revenue actually is lower than what you have on the 50 million. They're ready on the 500 million pre money valuation. Yeah, yeah, we lower than you 500 million. What do they one company we have. So Rockefeller said that I come in, I kick everybody out, and I set the regulations at 5 to million. So we were like, oh, wow. Just like that.
+
+Fred 01:07:21 
+Yeah, rocky fellow. Which one is it? The US one.
+
+John 01:07:24 
+Yeah, the one in US. But then they move, they relocate the headquarter from Hong Kong to New York. He knows got in no time was like six months. So that's it. So it happen, you have it very rather quickly. So if you have such a figure, your valuation call is very big and you understand it and even bigger than that. But I'm not suggesting you raise your valuation. I'm not suggest.
+
+Fred 01:07:49 
+No. So, but which rocket filler is this? Because maybe I, is it, is it, is it Rockefeller? So the, the, the, The Rockefeller Capital Management, is it those guys?
+
+John 01:08:03 
+I'm asking investment. Sorry, is it? I think it's investment side. I think they come along with a few banks. I mean, they're the lead. But yeah, so.
+
+Fred 01:08:21 
+It's hit by guy called Greg Fleming. Oh, used to be my, my, eh, one of my bosses at Meryl Lynch.
+
+John 01:08:30 
+So to, so it happen, right? So we basically, we didn't kick everybody out, but I think this is the last round. They need my leak. And they basically.
+
+Fred 01:08:41 
+Just, yeah, look, I, I can see that very well happening. That's exactly the way head of Sophia wants to do it.
+
+John 01:08:47 
+You know, so the number of revenue they talk about is only 15 million and they have 500 million pretty much finish.
+
+Fred 01:08:54 
+Yeah, but then that means they're probably just understand the business. See, they're not, I don't think they're as sophisticated as you guys, the. Yeah, you, all of you. You kPresentwhat I mean? It really is, you really do need to get into the detail of this to otherwise, you know.
+
+John 01:09:13 
+They're, well, say, Fred, they're less sophisticated than you guys because they, you know, the business, they don't bear the tech. Yeah, they're attacking us. And then these guys that, you know, guys, I want to bring money, you know, I want to bring the US investors and I want you to relocate to US as a US base company and your pre money violations at 5 million. And we're like, wow.
+

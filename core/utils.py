@@ -1,6 +1,6 @@
 """Utils."""
 
-from llama_index.llms import OpenAI, Anthropic, Replicate
+from llama_index.llms import OpenAI, Anthropic, Replicate, AzureOpenAI
 from llama_index.llms.base import LLM
 from llama_index.llms.utils import resolve_llm
 from pydantic import BaseModel, Field
@@ -21,6 +21,7 @@ from llama_index.agent.types import BaseAgent
 from llama_index.chat_engine.types import BaseChatEngine
 from llama_index.agent.react.formatter import ReActChatFormatter
 from llama_index.llms.openai_utils import is_function_calling_model
+from llama_index.embeddings import AzureOpenAIEmbedding
 from llama_index.chat_engine import CondensePlusContextChatEngine
 from core.builder_config import BUILDER_LLM
 from typing import Dict, Tuple, Any
@@ -81,12 +82,32 @@ def _resolve_llm(llm_str: str) -> LLM:
     tokens = llm_str.split(":")
     if len(tokens) == 1:
         os.environ["OPENAI_API_KEY"] = st.secrets.openai_key
-        llm: LLM = OpenAI(model=llm_str)
+        # llm: LLM = OpenAI(model=llm_str)
+        llm = AzureOpenAI(
+            model="gpt-35-turbo",
+            engine="gpt-35-turbo",
+            azure_deployment="gpt-35-turbo",
+            deployment="gpt-35-turbo",
+            deployment_name="gpt-35-turbo",
+            azure_endpoint="https://east-us-2.openai.azure.com/",
+            api_key="fa0",
+            api_version="2023-07-01-preview"
+        )
     elif tokens[0] == "local":
         llm = resolve_llm(llm_str)
     elif tokens[0] == "openai":
         os.environ["OPENAI_API_KEY"] = st.secrets.openai_key
-        llm = OpenAI(model=tokens[1])
+        # llm = OpenAI(model=tokens[1])
+        llm = AzureOpenAI(
+            model="gpt-35-turbo",
+            engine="gpt-35-turbo",
+            azure_deployment="gpt-35-turbo",
+            deployment="gpt-35-turbo",
+            deployment_name="gpt-35-turbo",
+            azure_endpoint="https://east-us-2.openai.azure.com/",
+            api_key="fa0",
+            api_version="2023-07-01-preview"
+        )
     elif tokens[0] == "anthropic":
         os.environ["ANTHROPIC_API_KEY"] = st.secrets.anthropic_key
         llm = Anthropic(model=tokens[1])
@@ -227,7 +248,15 @@ def construct_agent(
     additional_tools = additional_tools or []
 
     # first resolve llm and embedding model
-    embed_model = resolve_embed_model(rag_params.embed_model)
+    embed_model = AzureOpenAIEmbedding(
+        model="text-embedding-ada-002",
+        azure_deployment="text-embedding-ada-002-2",
+        deployment_name="text-embedding-ada-002-2",
+        api_version="2023-07-01-preview",
+        api_key="fa0",
+        azure_endpoint="https://east-us-2.openai.azure.com/"
+    )
+    # embed_model = resolve_embed_model(rag_params.embed_model)
     # llm = resolve_llm(rag_params.llm)
     # TODO: use OpenAI for now
     # llm = OpenAI(model=rag_params.llm)
@@ -435,7 +464,15 @@ def construct_mm_agent(
     additional_tools = additional_tools or []
 
     # first resolve llm and embedding model
-    embed_model = resolve_embed_model(rag_params.embed_model)
+    # embed_model = resolve_embed_model(rag_params.embed_model)
+    embed_model = AzureOpenAIEmbedding(
+        model="text-embedding-ada-002",
+        azure_deployment="text-embedding-ada-002-2",
+        deployment_name="text-embedding-ada-002-2",
+        api_version="2023-07-01-preview",
+        api_key="fa0",
+        azure_endpoint="https://east-us-2.openai.azure.com/"
+    )
     # TODO: use OpenAI for now
     os.environ["OPENAI_API_KEY"] = st.secrets.openai_key
     openai_mm_llm = OpenAIMultiModal(model="gpt-4-vision-preview", max_new_tokens=1500)
